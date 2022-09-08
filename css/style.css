@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Odibee+Sans&display=swap");
+h1 {
+    font-family: "Luckiest Guy", cursive;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-family: "Luckiest Guy", cursive;
+    text-align: center;
+}
+
+img {
+    margin-left: center;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    width: 400px;
+    margin: 0px auto;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+body {
+    background-image: url(../img/fondo.webp);
+    background-attachment: fixed;
+}
+
+#btnModalLogin {
+    margin-left: 740px;
+}
+
+#btnLogout {
+    margin-left: 740px;
+}
